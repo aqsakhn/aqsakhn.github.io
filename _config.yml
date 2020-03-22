@@ -1,0 +1,56 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Personal info
+name: Aqsa Khan
+title: Senior Software Developer
+email: aqsakhan915@gmail.com
+
+
+# Social links
+twitter_username: aqsakhan
+github_username:  aqsakhn
+instagram_username: aqsakhan
+linkedin_username: aqsakhan
+# pinterest_username: jekyll
+#youtube_username: globalmtb
+
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Aqsa and I'm a lab enginer. Aeb apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>Dummy add your skills</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
